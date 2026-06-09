@@ -34,6 +34,8 @@
         </style>
 
         <style name="styleContainedButton" parent="@style/Widget.MaterialComponents.Button">
+            <item name="backgroundTint">@color/colorPrimary</item>
+            <item name="android:textColor">@android:color/white</item>
         </style>
 
 

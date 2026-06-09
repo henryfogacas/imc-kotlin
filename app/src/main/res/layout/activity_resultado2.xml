@@ -119,6 +119,8 @@
                 style="@style/styleContainedButton"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
                 android:text="@string/labelBotaoVoltar" />
 
         </LinearLayout>
